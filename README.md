@@ -83,37 +83,37 @@ All 15 queries are in [`03_business_queries/`](03_business_queries), and their a
 
 ### 1. Monthly revenue shows a clear seasonal pattern
 
-![Monthly Revenue](04_analysis/charts/01_monthly_revenue.png)
+![Monthly Revenue](04_analysis/01_monthly_revenue.png)
 
 Revenue rises sharply in January (Tet holiday) and June (summer travel season), matching typical demand for road trips and family visits. This supports planning for fleet size and seasonal pricing (`Vehicle_Pricing.Holiday_Price`) ahead of these periods.
 
 ### 2. Revenue is concentrated in a small group of vehicles
 
-![Top 10 Vehicles](04_analysis/charts/02_top10_vehicles_revenue.png)
+![Top 10 Vehicles](04_analysis/02_top10_vehicles_revenue.png)
 
 A small set of vehicles accounts for a large share of total revenue. Studying what these vehicles have in common (model, price point, location) could help guide new vehicle owners toward higher-performing choices.
 
 ### 3. The premium segment outperforms its share of the fleet
 
-![Revenue vs Fleet Share](04_analysis/charts/03_revenue_vs_fleet_share_by_category.png)
+![Revenue vs Fleet Share](04_analysis/03_revenue_vs_fleet_share_by_category.png)
 
 Premium vehicles make up about 55% of the fleet but generate about 67% of revenue, while economy vehicles make up 43% of the fleet but only about 30% of revenue. This suggests it may be worth prioritizing outreach to owners of premium vehicles.
 
 ### 4. A meaningful share of bookings are cancelled or declined
 
-![Booking Status](04_analysis/charts/04_booking_status_distribution.png)
+![Booking Status](04_analysis/04_booking_status_distribution.png)
 
 About 10% of bookings are cancelled by customers, and about 8% are declined by vehicle owners. Both directly affect customer experience and fleet utilization, and are worth monitoring over time.
 
 ### 5. Most customers are still in the lower loyalty tiers
 
-![Customer Rank](04_analysis/charts/05_customer_rank_distribution.png)
+![Customer Rank](04_analysis/05_customer_rank_distribution.png)
 
 Most customers are ranked Bronze or Silver. There is room to build a loyalty program that moves more customers into the Gold or Platinum tiers, which already show noticeably higher average spending (see queries 03 and 10).
 
 ### 6. Higher-earning vehicle owners also tend to have better ratings
 
-![Owner Revenue vs Rating](04_analysis/charts/06_top_owners_revenue_vs_rating.png)
+![Owner Revenue vs Rating](04_analysis/06_top_owners_revenue_vs_rating.png)
 
 Vehicle owners with higher revenue also tend to have higher customer ratings. This points to a link between service quality and earnings, and could support a ranking system that gives better-rated vehicles more visibility on the platform.
 

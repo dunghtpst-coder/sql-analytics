@@ -109,7 +109,7 @@ About 10% of bookings are cancelled by customers, and about 8% are declined by v
 
 ![Customer Rank](04_analysis/05_customer_rank_distribution.png)
 
-Most customers are ranked Bronze or Silver. There is room to build a loyalty program that moves more customers into the Gold or Platinum tiers, which already show noticeably higher average spending (see queries 03 and 10).
+Most customers are ranked Bronze or Silver. There is room to build a loyalty program that moves more customers into the Gold or Platinum tiers, which already show noticeably higher average spending.
 
 ### 6. Higher-earning vehicle owners also tend to have better ratings
 

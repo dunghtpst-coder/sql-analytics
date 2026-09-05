@@ -74,7 +74,7 @@ cd ../03_business_queries && python3 run_all_queries.py   # runs all 15 queries,
 cd ../04_analysis && python3 analysis.py             # writes 6 charts to charts/
 ```
 
-All sample data is synthetic, generated with Faker. It is designed to include realistic patterns, such as seasonal peaks (Tet holiday, summer), a few high-demand vehicles, and a small group of high-value customers, so the analysis has something meaningful to find.
+All data used here is synthetically generated, not real customer or transaction data. The generation script intentionally builds in realistic business patterns, including seasonal demand peaks around holidays and summer, a concentration of revenue in a small set of vehicles, and a distinct tier of high-value customers, so the analysis reflects the kind of patterns found in real rental data.
 
 ---
 

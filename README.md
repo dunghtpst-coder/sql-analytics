@@ -54,7 +54,7 @@ car-rental-database-analysis/
 
 The diagram below is the full ER diagram from the original design report. It shows all 32 tables, grouped into 7 functional areas: User & Authentication, Vehicle Owner & Vehicle, Vehicle Operations, Customer & Booking, Contract & Payment, Handover & Return, and System Operations & Monitoring.
 
-![Entity-Relationship Diagram](docs/images/erd_diagram.png)
+![Entity-Relationship Diagram](docs/erd_diagram.png)
 
 A simplified, GitHub-renderable version of the same diagram (grouped by functional area, using Mermaid syntax) is available in [`docs/ERD.md`](docs/ERD.md).
 

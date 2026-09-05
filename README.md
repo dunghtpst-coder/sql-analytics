@@ -22,9 +22,8 @@ Using this database, the project also answers common business questions, such as
 |---|---|
 | Database design | Entity-Relationship Diagram, normalized schema (3NF) |
 | Query language | SQL (SQLite dialect, portable to MySQL/PostgreSQL) |
-| Sample data generation | Python (Faker) |
-| Analysis and visualization | Python (pandas, matplotlib) |
-| Version control | Git and GitHub |
+| Sample data generation | Python |
+| Analysis and visualization | Python |
 
 ## Project Structure
 
@@ -44,7 +43,7 @@ car-rental-database-analysis/
 │   ├── analysis.py               # Analysis script that also exports the charts
 │   └── charts/                   # 6 charts summarizing key insights
 ├── docs/
-│   ├── ERD.md                    # Simplified ER diagram (Mermaid, renders on GitHub)
+│   ├── ERD.md                    # Simplified ER diagram 
 │   └── images/erd_diagram.png    # Full ER diagram from the original design report
 ├── LICENSE
 └── README.md

@@ -152,4 +152,4 @@ Vehicle owners with higher revenue also tend to have higher customer ratings. Th
 
 ## License
 
-Released under the [MIT License](LICENSE) — free to use for learning and reference purposes.
+Released under the [MIT License](LICENSE) - free to use for learning and reference purposes.

@@ -55,5 +55,5 @@ os.makedirs("results", exist_ok=True)
 with open(OUT_PATH, "w", encoding="utf-8") as f:
     f.write("\n".join(lines))
 
-print(f"\n✅ Đã lưu kết quả vào {OUT_PATH}")
+print(f"\nĐã lưu kết quả vào {OUT_PATH}")
 conn.close()

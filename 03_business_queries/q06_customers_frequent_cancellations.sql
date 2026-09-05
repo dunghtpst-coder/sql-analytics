@@ -1,6 +1,6 @@
 -- ============================================================================
 -- Q06: Tìm khách hàng có số lần hủy booking nhiều (>= 2 lần)
--- Business question: "Khách nào hay đặt-rồi-hủy, ảnh hưởng đến vận hành đội xe?"
+-- Business question: "Khách nào hay đặt rồi hủy, ảnh hưởng đến vận hành đội xe?"
 -- ============================================================================
 SELECT
     U.Users_ID,

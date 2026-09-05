@@ -1,4 +1,4 @@
-# Car Rental Service — Database Design & SQL Business Analysis
+# Database Design & SQL Business Analysis - Car Rental Service 
 
 Database design and business data analysis for a short-term car rental platform (similar to Turo or Mioto). The project started as a university assignment for a Database course. It has since been extended with sample data, a set of business queries, and analysis charts, to show how the underlying data can be turned into insights that support business decisions.
 
